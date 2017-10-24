@@ -20,3 +20,11 @@ Should be back on track from now on.
 
 **Resources Used** [Javascript MDN] (https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
+### Day 3: Tuesday 24th October
+**Today's Progress**: Worked on some minor styling and the beginnings of a function to flash the new sequence to repeat at the start of each round.
+
+**Thoughts:**: Comments in my code have made it a lot easier to jump back in than in some of my older projects. Need to keep up with this. I need to be careful when nesting functions to make sure they play nicely with eachother.
+
+**Link to work:** [simon git repository](https://github.com/ccp92/simon/tree/response)
+
+**Resources Used** [Stack Overflow] (https://stackoverflow.com)
