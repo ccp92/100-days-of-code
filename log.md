@@ -23,8 +23,17 @@ Should be back on track from now on.
 ### Day 3: Tuesday 24th October
 **Today's Progress**: Worked on some minor styling and the beginnings of a function to flash the new sequence to repeat at the start of each round.
 
-**Thoughts:**: Comments in my code have made it a lot easier to jump back in than in some of my older projects. Need to keep up with this. I need to be careful when nesting functions to make sure they play nicely with eachother.
+**Thoughts:**: Comments in my code have made it a lot easier to jump back in than in some of my older projects. Need to keep up with this. I need to be careful when nesting functions to make sure they play nicely with eachother (e.g. variables in one function not being accessible to others).
 
 **Link to work:** [simon git repository](https://github.com/ccp92/simon/tree/response)
 
 **Resources Used** [Stack Overflow] (https://stackoverflow.com)
+
+### Day 4: Wednesday 2nd November
+**Today's Progress**: Continued work on the simon application. The function that flashes the sequence back is coming along nicely. Need to work on how to get each part of the function to occur in the right order at the right time.
+
+**Thoughts:**: I'm finding that stuff that I'm learning could be applied retroactively to older projects I've worked on. For example, the setTimout in javascript would help in my quoteMachine project.
+
+**Link to work:** [simon git repository](https://github.com/ccp92/simon/tree/response)
+
+**Resources Used** [jQuery Documentation] (https://api.jquery.com)
